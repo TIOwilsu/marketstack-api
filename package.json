@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "author": "Wilson Queiroz Rocha",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "yargs": "^15.4.1"
+  }
 }
