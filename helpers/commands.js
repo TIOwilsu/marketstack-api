@@ -12,7 +12,7 @@ const commands = [
             }
         },
         handler: ({ symbols }) =>  {
-            eod.get(symbols, (data) => console.log(data))
+            eod.get(symbols, (data) => eod.getDetails(data))
         } 
     },
 ]
