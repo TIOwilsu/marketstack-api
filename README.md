@@ -4,12 +4,12 @@
 ```
 yarn install
 ```
-**or**
+**ou**
 ```
 npm install
 ```
 
-### Compilar e passe parâmetros para obter ações
+### Compile e passe parâmetros para obter ações
 ```
 node app.js --symbols="AAPL"
 ```
